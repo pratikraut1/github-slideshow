@@ -2,4 +2,4 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Learning Github!
+Github is important and I'm Learning Github and having fun!
